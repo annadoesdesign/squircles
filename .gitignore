@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Build outputs
+packages/react/dist/
+*.tgz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test files (if you want to keep them local)
+test-app.tsx
+test.html
+package-test.json
+
+# Raw/development files
+raw/
+organize.sh

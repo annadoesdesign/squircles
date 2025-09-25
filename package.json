@@ -1,0 +1,10 @@
+{
+  "name": "squircles",
+  "private": true,
+  "version": "0.0.0",
+  "workspaces": ["packages/*"],
+  "scripts": {
+    "gen:react": "node scripts/generate-react.mjs",
+    "build": "npm -w packages/react run build"
+  }
+}

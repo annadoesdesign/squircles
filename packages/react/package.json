@@ -1,0 +1,48 @@
+{
+  "name": "@squircles/react",
+  "version": "1.0.0",
+  "description": "Beautiful React icon library with clean stroke/fill separation and multiple weight variants",
+  "keywords": ["icons", "react", "typescript", "svg", "ui", "components"],
+  "homepage": "https://github.com/[your-username]/squircles",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/[your-username]/squircles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/[your-username]/squircles/issues"
+  },
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "type": "module",
+  "sideEffects": false,
+  "main": "dist/index.cjs",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "peerDependencies": {
+    "react": ">=17"
+  },
+  "scripts": {
+    "build": "tsup src/index.ts --format cjs,esm --dts --clean"
+  },
+  "devDependencies": {
+    "@svgr/core": "^8.1.0",
+    "@types/react": "^19.1.13",
+    "@types/react-dom": "^19.1.9",
+    "change-case": "^5.4.4",
+    "fast-glob": "^3.3.3",
+    "react": "^19.1.1",
+    "svgo": "^4.0.0",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.2"
+  }
+}

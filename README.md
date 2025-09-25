@@ -122,7 +122,7 @@ This library uses a smart processing system that automatically handles stroke/fi
 
 ## 🎨 Designer
 
-**All icons designed by [Anna Everhart](https://linkedin.com/in/annaeverhart)**
+**All icons designed by [Anna Everhart](https://www.linkedin.com/in/annadoesdesign/)**
 
 Anna is a talented designer who specializes in creating beautiful, functional icon systems. You can find more of her work and connect with her on:
 

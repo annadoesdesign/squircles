@@ -120,6 +120,18 @@ This library uses a smart processing system that automatically handles stroke/fi
 - **Stroke icons**: Outlined shapes with proper stroke attributes
 - **Mixed elements**: Intelligently processes different SVG elements
 
+## 🎨 Designer
+
+**All icons designed by [Anna Everhart](https://linkedin.com/in/annaeverhart)**
+
+Anna is a talented designer who specializes in creating beautiful, functional icon systems. You can find more of her work and connect with her on:
+
+- 🔗 **LinkedIn**: [@annaeverhart](https://www.linkedin.com/in/annadoesdesign/)
+- 🐦 **Twitter/X**: [@annadoesdesign](https://twitter.com/annadoesdesign)
+- 📧 **Email**: annaerocca@gmail.com
+
+*Have a design project or need custom icons? Reach out!*
+
 ## 📄 License
 
 MIT License - feel free to use in personal and commercial projects.
@@ -130,4 +142,4 @@ Issues and pull requests are welcome! Please ensure icons follow the established
 
 ---
 
-Made with ❤️ for developers who appreciate quality icons.
+**Squircles Icons** - Designed by Anna Everhart • Made with ❤️ for developers who appreciate quality design

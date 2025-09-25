@@ -138,7 +138,7 @@ MIT License - feel free to use in personal and commercial projects.
 
 ## 🤝 Contributing
 
-Issues and pull requests are welcome! Please ensure icons follow the established design patterns.
+I do not allow constributions, but if you would like a custom icon or missing one, please reach out! 
 
 ---
 

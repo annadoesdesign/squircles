@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Beautiful React icon library with clean stroke/fill separation and multiple weight variants",
   "keywords": ["icons", "react", "typescript", "svg", "ui", "components"],
-  "homepage": "https://github.com/annadoesdesign/squircles",
+  "homepage": "https://github.com/annadoesdesign/squircles-icons",
   "repository": {
     "type": "git",
-    "url": "https://github.com/annadoesdesign/squircles.git"
+    "url": "https://github.com/annadoesdesign/squircles-icons.git"
   },
   "bugs": {
-    "url": "https://github.com/annadoesdesign/squircles/issues"
+    "url": "https://github.com/annadoesdesign/squircles-icons/issues"
   },
   "author": "Anna Everhart <anna@annadoesdesign.com> (https://annadoesdesign.com)",
   "license": "MIT",
